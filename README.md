@@ -2,11 +2,10 @@
 
 A uber based design system, built with react-native
 
-
 ### Components 
-  - []  Button 
-  - []  Input Field
-  - []  Text
+  - Button 
+  - Input Field
+  - Text
 
 
 ### Resource 
