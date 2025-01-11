@@ -1,33 +1,16 @@
 # rn-base
 
-A uber based design system
-
-## Installation
-
-```sh
-npm install rn-base
-```
-
-## Usage
+A uber based design system, built with react-native
 
 
-```js
-import { multiply } from 'rn-base';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+### Components 
+  - []  Button 
+  - []  Input Field
+  - []  Text
 
 
-## Contributing
+### Resource 
+ - https://www.figma.com/design/rujVGi1lbniZR9SbJ2wYgG/%E2%9D%96-Base-Gallery-(Community)
 
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
-## License
-
-MIT
-
----
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+Crafted with 💜 by [Hritik Singh](https://github.com/hrithik73)
